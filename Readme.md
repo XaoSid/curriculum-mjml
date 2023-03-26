@@ -4,4 +4,4 @@ Este é o meu curriculo usando da ferramenta de mjml para construi-lo, o usei po
 
 ## Imagem do CV
 
-<img src="https://i.imgur.com/8kK3MBX.png" width="700" align="center">
+<img src="https://i.imgur.com/sGsHmfB.png" width="700" align="center">
