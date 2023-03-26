@@ -1,0 +1,169 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-class name="subtitle"
+                font-size="16px"                
+                font-weight="bold" 
+                font-family="Arial, Helvetica"/>
+      
+      <mj-class name="subtitle2"
+                font-size="14px"
+                font-weight="500"/>
+                
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body >
+    <mj-section background-color="#000">
+      <mj-column padding="30px">
+          <mj-text font-size="36px"  
+                   font-family="Open Sans"
+                   font-weight="bold"
+                   color="#fff"
+                   align="right">
+					Lucas Silva Porto
+        </mj-text>
+        <mj-text color="#fff"
+                 align="right"
+                 font-size="14px"
+                 padding-bottom="15px"
+                 >
+          Desenvolvedor
+          <br>
+          Front-End
+        </mj-text>        
+      </mj-column>
+
+    </mj-section>
+    
+    <mj-section background-color="#fefefe">
+      <mj-column>
+       	<mj-text mj-class="subtitle">
+          Olá sou Lucas,
+        </mj-text>
+      	<mj-text>
+          irei me formar este ano em ADS, sou apaixonado por mitologia e                             avanços tecnológicos para ver até onde o ser humano irá chegar, estou em busca de           uma oportunidade para usar os meus conhecimentos e me desenvolvedor 	                       profissionalmente.
+        </mj-text>
+      </mj-column>
+      
+    </mj-section>
+    
+    <mj-section>		
+      <mj-column width="100%">
+        <mj-text mj-class="subtitle">
+          FORMAÇÃO
+        </mj-text>     
+      	<mj-text mj-class="subtitle2">
+          UNIVERSIDADE SANTA CECILIA
+        </mj-text>
+      	<mj-text>
+        	2019 – 2023 | Tecnólogo em Analise e Desenvolvimento de Sistemas
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+      <mj-section>
+    				
+      
+    		 
+      <mj-column width="100%">
+        <mj-text mj-class="subtitle">
+         CERTIFICADOS:
+        </mj-text> 
+      	<mj-text mj-class="subtitle2">
+          GOOGLE CREATIVE
+        </mj-text>
+     
+      	<mj-text>
+        	Fev de 2023 | Código da credencial 141698417
+        </mj-text>
+        	
+      	<mj-text mj-class="subtitle2">
+          CEDESPRO
+        </mj-text>
+     
+      	<mj-text>
+        	2016 - 2017 | Operador de Computador
+        </mj-text>
+        
+      	<mj-text mj-class="subtitle2">
+          CEDESPRO
+        </mj-text>
+     
+      	<mj-text>
+        	2016 - 2018 | Inglês
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    	
+   	<mj-section>
+     
+      <mj-column width="100%">
+        <mj-text mj-class="subtitle">
+              PROJETOS:
+          </mj-text>     		
+        	<mj-text mj-class="subtitle2">
+          TO-DO
+        </mj-text>
+      	<mj-text>
+        	Desenvolvimento de uma TO-DO List, uma ferramenta feita para ser usada como uma lista de tarefas, podendo adicionar, remover e alterar as tarefas inseridas no TO-DO. Feita a partir de angular, com uso de expressJS e SCSS.
+        </mj-text>
+      </mj-column>
+        
+    </mj-section>
+
+    
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="subtitle">
+          HABILIDADES:
+        </mj-text>
+         <mj-table>
+          <tr>
+            <td> HTML</td>
+          </tr>
+          <tr>
+						 <td>CSS</td>
+          </tr>
+          <tr>
+						 <td>JAVASCRIPT</td>
+          </tr>
+          <tr>
+						 <td>ANGULAR 2+</td>
+          </tr>
+         <tr>
+						 <td>FIGMA</td>
+          </tr>
+         <tr>
+						 <td>PHOTSHOP</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    	
+    <mj-section background-color="#000">
+       	<mj-column vertical-align="top">
+      	<mj-text color="white" 
+                 align="center"
+                 font-family="Arial, Helvetica"
+                 font-size="15px"
+                 font-weight="400">      
+          Entre em contato
+          </mj-text>
+          <mj-social>
+            <mj-social-element  
+                               href="https://www.linkedin.com/in/lucas-silva-porto-826240209/" 
+                               src="https://i.imgur.com/5cVdmoV.png"></mj-social-element>
+            <mj-social-element name="github" href="https://github.com/XaoSid" src="https://i.imgur.com/ltWkfrR.png"></mj-social-element>
+           <mj-social-element   href="mailto:lucassporto.contato@gmail.com?subject=Oportunidade de Emprego" src="https://i.imgur.com/hKVkvN9.png"></mj-social-element>
+       
+         </mj-social>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
